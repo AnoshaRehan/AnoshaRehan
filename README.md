@@ -1,4 +1,5 @@
-### Hi there 👋
+## 👋 Hi, My name is Anosha and I'm a software engineer...no shocker there 😄
+### Anyways... I hope you find my work helpful, I try to be as active as I can while being lazy all the time.
 
 <!--
 **AnoshaRehan/AnoshaRehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
